@@ -1,0 +1,41 @@
+.lol{
+    height: 220px;
+    background-image: url(../img/bgc.jpg);
+    width: auto;
+    color: azure;
+    text-align: center;
+    padding: 80px;
+}
+section{
+    margin: 25px;
+}
+.text{
+    text-align: center;
+}
+.text a{
+    text-transform: uppercase;
+    color:white;
+    background-color: purple;
+    padding: 10px 80px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.text a:hover{
+    color: aqua;
+    text-decoration: none;
+}
+.text2 a{
+    text-transform: uppercase;
+    color:white;
+    background-color: purple;
+    padding: 10px 80px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.text2 a:hover{
+    color: aqua;
+    text-decoration: none;
+}
+.text2{
+    text-align: center;
+}
